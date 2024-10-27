@@ -1,0 +1,6 @@
+.off-hours-disabled {
+    background-color: lightgrey !important;
+    pointer-events: none;
+    opacity: 0.5;
+  }
+  

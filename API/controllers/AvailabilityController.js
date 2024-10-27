@@ -1,0 +1,1 @@
+const { availableFaculty } = require('../models/AvailableFaculty');
